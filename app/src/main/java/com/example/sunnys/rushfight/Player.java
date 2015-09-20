@@ -58,7 +58,6 @@ public class Player extends GameObject  {
 
         y += dy*2;
         //System.out.println("Y: " + y);
-        dy = 0;
     }
 
     public void draw(Canvas canvas) {
@@ -77,7 +76,7 @@ public class Player extends GameObject  {
 
     /*public Speed speed;
 
-    public Position getPosition()   {
+    public Position getPosition()   {s
         return this.pos;
     }
 
