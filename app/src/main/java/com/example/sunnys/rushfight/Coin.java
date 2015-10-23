@@ -11,12 +11,4 @@ public class Coin extends GameEntity {
         this.bmp = bitmap;
         this.pos = position;
     }
-
-    public Position getPosition()   {
-        return pos;
-    }
-
-    public void setBitmap(Bitmap bitmap) {
-        this.bmp = bitmap;
-    }
 }

@@ -1,4 +1,4 @@
-package com.example.sunnys.rushfight;
+package copter;
 
 import android.graphics.Canvas;
 import android.graphics.Color;
